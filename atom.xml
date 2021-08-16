@@ -1,37 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://astrid.pages.dev</id>
+    <id>http://localhost:4000</id>
     <title>Astrid Wei</title>
-    <updated>2021-08-13T12:15:51.376Z</updated>
+    <updated>2021-08-16T12:32:45.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://astrid.pages.dev"/>
-    <link rel="self" href="https://astrid.pages.dev/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>迷途漫漫，终有一归</subtitle>
-    <logo>https://astrid.pages.dev/images/avatar.png</logo>
-    <icon>https://astrid.pages.dev/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, Astrid Wei</rights>
     <entry>
+        <title type="html"><![CDATA[[备份] 人生苦短，远离微信 | June 2, 2021]]></title>
+        <id>http://localhost:4000/post/free-from-wechat/</id>
+        <link href="http://localhost:4000/post/free-from-wechat/">
+        </link>
+        <updated>2021-08-16T12:27:25.000Z</updated>
+        <content type="html"><![CDATA[<p>From <a href="https://hayami-blog.typlog.io/blog-34-ren-sheng-ku-duan-yuan-chi-wei-xin-june-f411c989">hayami's blog</a></p>
+<h1 id="1">1.</h1>
+<p>今天看到了人物发的这篇《<a href="https://mp.weixin.qq.com/s/BcYAJ95Pub3HQKXNF8XTLw">不用微信的人</a>》(Archive: <a href="https://archive.ph/xMAFm">Link</a> ) ，想起前段时间读了《Snapchat传》，在书评里写：</p>
+<blockquote>
+<p>总觉得在这个时代做社交产品的人都有一种英雄主义。因为首先要推翻巨头玩的那一套反其道而行，走一条没人走过的道路本身就需要天才般的创意和持之以恒的努力；然后做起来之后，还要面对庞大帝国布下的天网，遇到被绞杀和疯狂抄袭的困境。但也感谢天才般的创业者们，正因为他们勇敢地对权威发起挑战，才让我们普通人能拥有去探索另外一种生活的可能性。</p>
+</blockquote>
+<h1 id="2">2.</h1>
+<p>聊聊另外一个用户角度吧。</p>
+<p>这本书里有一章提到：Snapchat之所以一开始就能取得成功，部分原因是西方用户明显不希望通过一款应用解决所有问题......他们选择Snapchat的一个重要原因就是逃离脸书帝国。</p>
+<p>脸书对应的国内产品，大概就是微信。</p>
+<p>我始终不明白，为什么我们愿意把支付充值、交友娱乐、阅读出行等日常行为全部放在一个软件里，把隐私和数据双手奉上，然后任由其对内容进行审查和监管、对账号进行处置和封禁？</p>
+<p>为什么我们宁愿忍受其一次次迭代更新出侮辱智商一般的炸屎彩蛋，却对着真正用户痛点的占据了40多个G的巨大内存视而不见还恬不知耻自诩是小而美软件？</p>
+<p>为什么我们可以心安理得去接受公众号不允许插入外链这种毫不尊重读者的强盗霸权，请问这符合公共传播的道德、新闻传播的伦理、新闻报道的规范吗？</p>
+<p>为什么要忍受这极度的傲慢、自大和封闭？</p>
+<p>是的，我们当然可以为依赖微信找出一百个理由： • 我的好友有90%在微信上面； • 我用习惯了； • 因为这样很方便； • ......</p>
+<p>但是又如何呢？</p>
+<p>• 我们完全可以用自己的实际行动，影响更多的人不依赖微信。如果 ta 不想下载 Telegram，我们还有 iMessage 可以实时交流沟通；如果ta翻不了墙用 IG 和 Twitter，我们也还有微博和豆瓣可以记录生活；</p>
+<p>• 哪怕问问朋友「要不我们试试别的聊天软件」，也绝不是没有意义。大部分人不会问，所以问了就是改变的开始。当面问，问亲人、同事、同学。午休用餐时问，放学回家路上问。认真但温和地问，严肃但非对抗性地讨论。不要害怕她们觉得妳很奇怪。永远都会有人觉得妳奇怪，但永远也都有人和妳有同样的信念。--李如一 • 顺着惯性去过日子自然是最舒畅的了。但是如果一直是被大江大流裹挟着向前移动，日日夜夜重复着前一天的生活、低着头走着千千万万人已经走过的路，那又要什么意义呢？ • 方便真的是我们人生的唯一价值吗？所谓精神生活并不是指向专家学习审美或是艺术创作，那其实是把精神生活变成了世俗生活。微信越是一种生活方式，我们就越有必要对其严阵以待。--李如一</p>
+<h1 id="3">3.</h1>
+<p>不对，不可以，不正确，不应该是这样的。我们为什么要过着一种被投喂什么就吃什么的生活，为什么要逆来顺受过完这一生。人是有自由意志和主观能动性的，人是可以勇敢地去尝试各种各样的生活方式、在千奇百怪的可能性里去充分探索的。 TG 上有位朋友做了一个 <a href="https://retompi.com/stay-away-from-wechat/">stay-away-from-wechat</a> 的网站</p>
+<blockquote>
+<p>收集微信的反人性设计、无耻审查行为、侵犯用户隐私、监控聊天记录、试图控制人民生活等侵犯 人权 的行径，期望用户认识到微信的弊病，并提供微信之外的选择。</p>
+</blockquote>
+<p>里面不光收集了公开报道和学术研究，也切实地给出了逃离微信的一些其他选择和解决方案。值得一读。</p>
+<p>我们应当拥有选择的权利。</p>
+<p>人生苦短，远离微信。stay-away-from-wechat</p>
+<p>TG上的一些评论：</p>
+<p>@Agnes C</p>
+<blockquote>
+<p>telegram 私聊，飞书工作，signal 候补私聊。身体力行，将微信挤出IM前三名！</p>
+</blockquote>
+<p>@x</p>
+<blockquote>
+<p>关闭了朋友圈两年，今天看到这些分享才觉察到朋友圈和那一套对应的生活方式于我而言已经消失了。</p>
+</blockquote>
+<blockquote>
+<p>最近在整个城市游荡，发现几家网上没有但不错的店（老城区会比较有惊喜）。回想分享给朋友的过程中，朋友圈这个选项从未在脑中出现过。 也发现了几家已是所谓本地网红店而我不用抖音等所以不知道的，也许「线下发现」存在效率上的瑕疵，但无法提供那种些微的惊喜。</p>
+</blockquote>
+<p>@max</p>
+<blockquote>
+<p>微信方便吗？这其实取决于用的人，追求方便（偷懒）是没有错的，对我个人而言微信并没有 telegram 方便，就一个 bot 就可以自动化很多事情，所以对我而言「自动化」意味着方便，也是偷懒，把原本需要人做的事情交给机器。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“要道歉，要补课” → “必须凉凉”，说明张姓艺人跪姿不够标准。]]></title>
-        <id>https://astrid.pages.dev/post/dig1rd26R/</id>
-        <link href="https://astrid.pages.dev/post/dig1rd26R/">
+        <id>http://localhost:4000/post/dig1rd26R/</id>
+        <link href="http://localhost:4000/post/dig1rd26R/">
         </link>
         <updated>2021-08-13T11:58:03.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://astrid.pages.dev/post-images/1628855902547.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1628855902547.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网民怒评人民网天天乱评事件：借中国人的民族认同天天煽动，拿国人当傻子，必须凉凉😅😅]]></title>
-        <id>https://astrid.pages.dev/post/u9u5qwu9k/</id>
-        <link href="https://astrid.pages.dev/post/u9u5qwu9k/">
+        <id>http://localhost:4000/post/u9u5qwu9k/</id>
+        <link href="http://localhost:4000/post/u9u5qwu9k/">
         </link>
         <updated>2021-08-13T11:51:29.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://astrid.pages.dev/post-images/1628855596271.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1628855596271.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【404文库】中产先生｜网上已经打起来了！防疫战略到底是​清零还是共存？]]></title>
-        <id>https://astrid.pages.dev/post/404-1/</id>
-        <link href="https://astrid.pages.dev/post/404-1/">
+        <id>http://localhost:4000/post/404-1/</id>
+        <link href="http://localhost:4000/post/404-1/">
         </link>
         <updated>2021-08-12T10:56:19.000Z</updated>
         <content type="html"><![CDATA[<p>（文章转自公众号虎次郎）</p>
